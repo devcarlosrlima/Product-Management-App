@@ -1,0 +1,31 @@
+.product-list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px; 
+}
+
+table {
+  width: 90%; 
+  border-collapse: collapse;
+  margin-top: 20px; 
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.new{
+  
+}
